@@ -19,7 +19,7 @@ class Config:
     CHUNK_SIZE = 1000  # Size of text chunks for processing
     CHUNK_OVERLAP = 200  # Overlap between chunks to maintain context
 
-    DATA_FOLDER = os.getenv("DATA_FOLDER", "./data/documents")
+    DATA_FOLDER = os.getenv("DATA_FOLDER", "../data/documents")
     PERSIST_DIRECTORY = os.getenv("PERSIST_DIRECTORY", "./storage/chroma_db")
 
     SEARCH_K = 4  # Number of top results to retrieve from the vector store
