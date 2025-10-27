@@ -13,7 +13,7 @@ class Config:
     and any other relevant configuration parameters needed for the RAG system to function properly.
     """
     GOOGLE_API_KEY = google_api_key
-    EMBEDDING_MODEL = "sentence-transformers/all-MiniLM-L6-v"
+    EMBEDDING_MODEL = "sentence-transformers/all-MiniLM-L12-v2"
     CHAT_MODEL = "gemini-1.5-flash"
 
     CHUNK_SIZE = 1000  # Size of text chunks for processing
