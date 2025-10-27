@@ -1,7 +1,10 @@
-from langchain_community.document_loaders import PyPDFLoader, TextLoader, Docx2txtLoader
-from langchain.text_splitter import RecursiveCharacterTextSplitter
-from RagFromScratch.src.config import Config
 import os
+
+from langchain.text_splitter import RecursiveCharacterTextSplitter
+from langchain_community.document_loaders import (Docx2txtLoader, PyPDFLoader,
+                                                  TextLoader)
+
+from RagFromScratch.src.config import Config
 
 
 class DocumentProcessor:

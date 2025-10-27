@@ -1,5 +1,7 @@
 import os
+
 from dotenv import load_dotenv
+
 from Secrets.openai_key import google_api_key
 
 load_dotenv()
