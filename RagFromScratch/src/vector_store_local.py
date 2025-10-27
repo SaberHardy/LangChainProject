@@ -1,7 +1,8 @@
 import os
 
 from langchain_community.embeddings import HuggingFaceEmbeddings
-from langchain_community.vectorstores import Chroma
+from langchain_chroma import Chroma
+
 from langchain_google_genai import GoogleGenerativeAIEmbeddings
 
 from Secrets.openai_key import google_api_key
@@ -40,7 +41,7 @@ class VectorStoreManager:
                 embedding=self.embeddings,
                 persist_directory=self.persist_directory
             )
-            vector_store.persist()
+            # vector_store.persist()
 
             print(f"✅ Vector store created successfully!")
             print(f"   - Location: {self.persist_directory}")
