@@ -1,12 +1,191 @@
-Company Vacation Policy
+TechNova Solutions Employee Handbook
 
-All employees are entitled to 15 vacation days per year.
-Vacation days accrue at a rate of 1.25 days per month.
-Employees must submit vacation requests at least 2 weeks in advance.
-Unused vacation days can be carried over to the next year, up to a maximum of 5 days.
+COMPANY OVERVIEW
+TechNova Solutions is a mid-sized software development company founded in 2015, specializing in cloud-based enterprise solutions. We are headquartered in Austin, Texas, with additional offices in Seattle and Denver. Our mission is to deliver innovative technology solutions while maintaining a supportive and flexible work environment for our 250+ employees.
+
+VACATION AND TIME OFF POLICY
+
+Annual Vacation Days
+- All full-time employees are entitled to 15 vacation days per year during their first two years of employment
+- Employees with 3-5 years of service receive 20 vacation days per year
+- Employees with 6+ years of service receive 25 vacation days per year
+- Vacation days accrue at a rate of 1.25 days per month for standard allocation
+- Part-time employees receive prorated vacation based on hours worked
+
+Vacation Request Process
+- Employees must submit vacation requests through the company portal at least 2 weeks in advance for requests under 5 days
+- Extended vacations (5+ consecutive days) require 4 weeks advance notice
+- Requests are subject to manager approval based on team workload and coverage
+- During peak business periods (typically Q4), vacation requests may be limited to ensure adequate staffing
+- Emergency time off can be requested with less notice at manager's discretion
+
+Carryover Policy
+- Unused vacation days can be carried over to the next year, up to a maximum of 5 days
+- Carried-over days must be used by March 31st of the following year or they will expire
+- Employees are encouraged to use their vacation time for work-life balance
+
+Sick Leave
+- All employees receive 10 paid sick days per year
+- Sick days do not accrue and reset annually on January 1st
+- No doctor's note required for absences under 3 consecutive days
+- Extended illness requiring more than 5 consecutive days must be reported to HR for potential FMLA consideration
+
+Personal Days
+- Employees receive 3 paid personal days per year for personal matters, appointments, or emergencies
+- Personal days do not carry over to the next year
+
+Holidays
+- TechNova observes 10 paid company holidays annually:
+  * New Year's Day
+  * Martin Luther King Jr. Day
+  * Memorial Day
+  * Independence Day
+  * Labor Day
+  * Thanksgiving Day and Friday after Thanksgiving
+  * Christmas Eve and Christmas Day
+  * One floating holiday of employee's choice
+- Office closes between December 25th and January 1st (additional paid time off)
+
+HEALTH AND WELLNESS BENEFITS
 
 Health Insurance
+- The company offers comprehensive health insurance through Blue Cross Blue Shield
+- Three plan options available: Gold PPO, Silver PPO, and Bronze HMO
+- Company covers 80% of employee premium costs
+- Dependent coverage available with company covering 50% of premium costs
+- New employees have 30 days from start date to enroll in health insurance plans
+- Annual open enrollment period occurs in November for following calendar year
+- Coverage begins on the first day of the month following enrollment
 
-The company offers comprehensive health insurance through Blue Cross.
-Dental and vision insurance are available as optional add-ons.
-New employees have 30 days to enroll in health insurance plans.
+Dental and Vision Insurance
+- Dental insurance available through Delta Dental as an optional add-on
+- Vision insurance available through VSP as an optional add-on
+- Company covers 50% of dental and vision premium costs for employees
+- Dependent coverage available at employee's expense
+
+Mental Health Support
+- Employee Assistance Program (EAP) provides 6 free confidential counseling sessions per year
+- Access to Headspace premium subscription for meditation and mindfulness
+- Mental health days can be taken using sick leave without requiring explanation
+
+Flexible Spending Accounts (FSA)
+- Healthcare FSA allows up to $3,050 pre-tax contribution annually
+- Dependent Care FSA allows up to $5,000 pre-tax contribution annually
+- Use-it-or-lose-it policy with $610 carryover allowance
+
+Health Savings Account (HSA)
+- Available for employees enrolled in Bronze HMO plan
+- Company contributes $500 annually to employee HSA accounts
+- Employees can contribute up to IRS maximum ($4,150 for individuals, $8,300 for families)
+
+Wellness Programs
+- Annual wellness reimbursement of $500 for gym memberships, fitness classes, or wellness activities
+- Quarterly wellness challenges with prizes and incentives
+- On-site yoga classes every Wednesday at 12:00 PM (virtual option available)
+- Standing desks available upon request at no cost to employee
+
+RETIREMENT AND FINANCIAL BENEFITS
+
+401(k) Retirement Plan
+- Employees eligible to participate after 3 months of employment
+- Company matches 100% of contributions up to 4% of salary
+- Immediate vesting of employee contributions
+- Company match vests 25% per year over 4 years
+- Plan managed by Fidelity Investments with diverse investment options
+
+Life Insurance
+- Company provides basic life insurance equal to 1x annual salary at no cost
+- Optional supplemental life insurance available for purchase (up to 5x salary)
+- Accidental death and dismemberment (AD&D) coverage included
+
+Disability Insurance
+- Short-term disability: 60% of salary for up to 90 days
+- Long-term disability: 60% of salary after 90-day elimination period
+- Coverage begins after 90 days of employment
+
+PROFESSIONAL DEVELOPMENT
+
+Learning and Development Budget
+- $2,000 annual budget per employee for conferences, courses, certifications, and training
+- Additional budget available for leadership development programs
+- Tuition reimbursement up to $5,000 per year for degree programs related to job function
+
+Conference Attendance
+- Employees encouraged to attend at least one industry conference per year
+- Company covers registration, travel, and accommodation costs
+- Knowledge sharing presentation required within 2 weeks of return
+
+Certification Support
+- Company covers costs for job-relevant professional certifications
+- Study time during work hours permitted with manager approval
+- Bonus incentive of $500 for achieving certain high-value certifications (AWS, Azure, etc.)
+
+WORK ARRANGEMENTS
+
+Remote Work Policy
+- Hybrid work model: minimum 2 days in office per week, 3 days remote
+- Fully remote positions available for certain roles with manager approval
+- $500 home office setup stipend for remote employees
+- Monthly internet reimbursement of $50 for remote workers
+
+Flexible Hours
+- Core hours: 10:00 AM - 3:00 PM (must be available)
+- Flexible start time between 7:00 AM - 10:00 AM
+- Flexible end time between 3:00 PM - 7:00 PM
+- 40-hour work week standard; additional hours may be required during peak periods
+
+PARENTAL LEAVE
+
+Maternity Leave
+- 16 weeks paid leave for birth mothers
+- Additional 2 weeks for complicated births or C-sections
+
+Paternity Leave
+- 8 weeks paid leave for non-birth parents
+- Available for adoptive parents as well
+
+Adoption Assistance
+- Up to $10,000 reimbursement for adoption-related expenses
+- Same parental leave policies apply
+
+Return to Work Support
+- Gradual return-to-work schedule available (part-time for first 2 weeks)
+- Private lactation rooms available at all office locations
+- Flexible schedule for first 3 months after return
+
+ADDITIONAL BENEFITS
+
+Commuter Benefits
+- Pre-tax commuter benefits up to $315/month for transit or parking
+- Free parking at all TechNova office locations
+- Electric vehicle charging stations available
+
+Technology
+- Company laptop (MacBook Pro or equivalent PC) and necessary equipment provided
+- Mobile phone stipend of $75/month or company phone option
+- Upgrade to latest equipment every 3 years
+
+Food and Beverages
+- Catered lunch on Wednesdays (Wellness Wednesday)
+- Fully stocked kitchen with snacks, coffee, and beverages
+- Monthly team lunch budget of $25 per person
+
+Team Building
+- Annual company retreat (all expenses paid)
+- Quarterly team outings and activities
+- Monthly birthday celebrations and milestone recognition
+
+Volunteer Time Off
+- 16 hours (2 days) paid volunteer time off per year
+- Company organizes quarterly volunteer events
+- Volunteer time can be used for causes of employee's choice
+
+Employee Referral Program
+- $2,000 bonus for successful referrals that complete 90 days
+- $3,000 bonus for hard-to-fill technical positions
+- No limit on number of referrals
+
+POLICY EFFECTIVE DATE
+This policy is effective January 1, 2025, and supersedes all previous versions.
+
+For questions about benefits, please contact HR at hr@technovasolutions.com or extension 1100.
