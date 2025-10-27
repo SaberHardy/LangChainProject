@@ -14,7 +14,7 @@ class Config:
     """
     GOOGLE_API_KEY = google_api_key
     EMBEDDING_MODEL = "sentence-transformers/all-MiniLM-L12-v2"
-    CHAT_MODEL = "gemini-1.5-flash"
+    CHAT_MODEL = "gemini-flash-latest"
 
     CHUNK_SIZE = 1000  # Size of text chunks for processing
     CHUNK_OVERLAP = 200  # Overlap between chunks to maintain context
