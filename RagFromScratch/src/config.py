@@ -36,7 +36,7 @@ class Config:
         return True
 
     @classmethod
-    def load_config(cls):
+    def print_config(cls):
         """
         Load and validate the configuration settings.
         :return:
@@ -52,7 +52,7 @@ class Config:
 if __name__ == "__main__":
     # Load and validate the configuration when this script is run directly
     if Config.validate_config(Config):
-        Config.load_config()
+        Config.print_config()
         print("Configuration loaded successfully. All required settings are present.")
     else:
         print("Configuration validation failed. Please check the required settings and try again.")
