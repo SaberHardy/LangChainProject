@@ -1,10 +1,9 @@
 import os
 
-from langchain_community.embeddings import HuggingFaceEmbeddings
+# from langchain_community.embeddings import HuggingFaceEmbeddings
+from langchain_huggingface import HuggingFaceEmbeddings
+
 from langchain_chroma import Chroma
-
-from langchain_google_genai import GoogleGenerativeAIEmbeddings
-
 from Secrets.openai_key import google_api_key
 
 GOOGLE_API_KEY = google_api_key

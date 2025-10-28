@@ -1,6 +1,5 @@
 import os
 import sys
-from dotenv import load_dotenv
 
 from RagFromScratch.src.rag_chain import RAGSystemChain
 
