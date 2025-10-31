@@ -60,12 +60,12 @@ class VectorStoreManager:
         if not os.path.exists(self.persist_directory):
             raise FileNotFoundError(f"Vector store not found at {self.persist_directory}. Please create it first.")
 
-        vector_store = Chroma(
+        loaded_vector_store = Chroma(
             persist_directory=self.persist_directory,
             embedding_function=self.embeddings,
         )
         print(f"Vector store loaded from {self.persist_directory}.")
-        return vector_store
+        return loaded_vector_store
 
     def get_retriever(self, search_type="similarity", k=4):
         """
@@ -80,20 +80,20 @@ class VectorStoreManager:
         k = k or Config.SEARCH_K  # Use default from config if k is not provided
         print(f"Creating retriever with search type '{search_type}' and k={k}...")
 
-        vector_store = self.load_vector_store()
+        retriever_vector_store = self.load_vector_store()
 
-        retriever = vector_store.as_retriever(
+        retrieved_store = retriever_vector_store.as_retriever(
             search_type=search_type,
             search_kwargs={"k": k}
         )
 
         print("Retriever created from the vector store with search type '{}' and k={}".format(search_type, k))
-        return retriever
+        return retrieved_store
 
     def get_doc_count(self):
         try:
-            vector_store = self.load_vector_store()
-            doc_count = vector_store._collection.count()
+            doc_vector_store = self.load_vector_store()
+            doc_count = doc_vector_store._collection.count()
             print(f"Vector store contains {doc_count} documents.")
             return doc_count
         except FileNotFoundError:
